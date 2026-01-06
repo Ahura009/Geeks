@@ -1,0 +1,5 @@
+﻿namespace University.Application.Students.Command.AllocateSeminarGroupAutomatically;
+
+public sealed class AllocateSeminarGroupAutomaticallyCommand
+{
+}
